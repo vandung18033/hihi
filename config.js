@@ -1,17 +1,17 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao anh cứ đi nhầm đường
-    Lạc vào tim em lẻ loi
+    introTitle: 'Hường à!',
+    introDesc: `anh không biết bắt đầu như thế nào với em 
+    nên a làm video này để 
+    Thay cho lời mở đầu
     Đằng sau chữ yêu đây là thương`,
     btnIntro: 'hihi',
     title: 'Phải chăng anh đã yêu em ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng anh đã say em ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'làm người yêu anh nhé <33',
+    btnYes: 'cho anh cơ hội để được yêu thương em nhé <33',
     btnNo: 'Không, Anh trai à :3',
-    question:'Đây là doạn video ngắn anh muốn gửi tới em và mong em cho a cơ hội để được tìm hiểu em  <3',
+    question:'Lần đầu gặp em anh không hiểu sao đã bị rung động bởi em không biết là ánh mắt hay nụ cười nữa nhưng a k muốn mk bỏ qua một người làm mình rung động. cho a cơ hội nhé  <3',
     btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    reply: 'cứ soạn tiếp đi nhé dù cho em xoạn như thế nào thì vẫn ra như z. mong đó câu em soạn là vâng ạ  <33333333',
     mess: 'hihi chúng ta tìm hiểu nhau nhé 😘😘',
     messDesc: 'Mãi yêu em công chúa của anh.',
     btnAccept: 'Okiiiii lun <3',
