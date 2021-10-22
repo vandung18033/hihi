@@ -1,9 +1,9 @@
 const CONFIG = {
-    introTitle: 'Emm à!',
+    introTitle: 'em à!',
     introDesc: `anh không biết bắt đầu như thế nào với em 
     nên a làm video này để 
     Thay cho lời mở đầu
-    Đằng sau chữ yêu đây là thương`,
+    Đằng sau chữ thích đây là yêu và đừng sau yêu là thương`,
     btnIntro: 'hihi',
     title: 'Phải chăng anh đã yêu em ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng anh đã say em ngay từ lúc thấy nụ cười ấy ',
